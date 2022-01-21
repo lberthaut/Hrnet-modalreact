@@ -1,0 +1,23 @@
+{
+  "name": "modal-lberthaut-oc",
+  "version": "1.0.0",
+  "description": "modal for project 14 on oc",
+  "main": "modal.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lberthaut/lberthaut_14_23122021_modalhrnetfornpm.git"
+  },
+  "keywords": [
+    "modal",
+    "react"
+  ],
+  "author": "louis berthaut",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/lberthaut/lberthaut_14_23122021_modalhrnetfornpm/issues"
+  },
+  "homepage": "https://github.com/lberthaut/lberthaut_14_23122021_modalhrnetfornpm#readme"
+}
