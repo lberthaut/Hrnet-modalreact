@@ -1,20 +1,8 @@
 # React Modal
 
-React Modal for project 14 on OC
-
-V1.0.1
+Version 1.0.1
 
 Link: `https://www.npmjs.com/package/modal-lberthaut-oc`
-
-### Recommanded IDE
-
-Visual Studio Code
-
-### how to install
-
-```
-npm i modal-lberthaut-oc
-```
 
 ### 3 Files:
 
