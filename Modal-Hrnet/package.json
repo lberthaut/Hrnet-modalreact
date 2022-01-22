@@ -1,6 +1,6 @@
 {
   "name": "modal-lberthaut-oc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "modal for project 14 on oc",
   "main": "modal.js",
   "scripts": {
@@ -12,7 +12,9 @@
   },
   "keywords": [
     "modal",
-    "react"
+    "react",
+    "oc",
+    "hrnet"
   ],
   "author": "louis berthaut",
   "license": "UNLICENSED",
